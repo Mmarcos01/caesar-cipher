@@ -31,3 +31,10 @@ The application must…
 - encryption should allow non-alpha characters but ignore them, including white space
 - decrypt encrypted version of It was the best of times, it was the worst of times. WITHOUT knowing the shift used.
 refer to supplied unit tests.
+
+## Resource
+[Tutorial](https://www.youtube.com/watch?v=Ws5E2gCW4Hc)
+
+## Collaborators
+
+Garfield Grant
